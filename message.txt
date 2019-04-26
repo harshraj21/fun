@@ -3,3 +3,5 @@
 Welcome to HaX Message Section  27/04/2019 03:20:00 AM
 -------------------------------------------------------
 * BuG Fixed V2.0 Is Out
+* BuG Fixed V2.1 Is Out
+(More Details In Changelogs)
