@@ -2,17 +2,13 @@
 -----------------------------------------------------------
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
-* BuG Fixed V2.0 Is Out  27/04/2019 03:22 AM
-* BuG Fixed V2.1 Is Out  27/04/2019 04:12 AM
-* BuG Fixed V2.2 Is Out  27/04/2019 05:25 PM
-* BuG Fixed V2.3 Is Out  27/04/2019 06:54 PM
-* BuG Fixed V2.4 Is Out  27/04/2019 03:44 AM
-* BuG Fixed V2.5 Is Out  30/04/2019 01:31 PM
-* Critical_BuG Fixed V2.6 Is Out  30/04/2019 01:50 PM
-----------------------------------------------------------
-Notice: Cheat locked until my exams get over as i am 
-not getting time to update it and also dont want anyone
-to get banned.  Thank You.
+NOTICE: The cheat has been discontinued as after update
+it was having a very big flaw which cant be fixed with
+current exe so i am taking down the cheat and probably
+in 2 weeks new cheat will be released after the exams 
+of mine get ends: 
+
+THANK YOU
 ----------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ----------------------------------------------------------
