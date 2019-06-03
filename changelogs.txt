@@ -1,0 +1,67 @@
+30/04/2019 V 2.6 01:52 PM
+
+* Critical Bug Fixed
+
+30/04/2019 V 2.5 01:31 PM
+
+1) Fixed the cheat locking mechanism
+2) Updated the loop termination program
+
+28/04/2019 V 2.4 03:42 AM
+
+1) Fixed a bug crashing updater
+2) Fixed a bug going infinite loop
+3) Reduced Cpu Usage significantly
+
+27/04/2019 V 2.3  06:50:56 PM
+
+1) Added Auto Delete For Old Exe File
+2) Updated Point 1 Of previous update
+
+27/04/2019 V 2.2  05:56:27 PM
+
+1) Added Timer Start Time & End time
+2) Check For version made More Effective
+3) Some Improvement in cheat
+
+27/04/2019 V 2.1
+
+1) Fixed Update with Download Manager/Updater
+
+27/04/2019 V 2.0
+
+1) Changed the Data Structures
+2) Updated the source with latest changes
+3) Signature Update
+4) Fixed a lot of minor Bugs
+5) Modified a lot of task to automated
+   BETA: (Check & Report if any issue or error)
+
+23/04/2019 V 1.0
+
+1) Initial Release
+2) Added Bomb Esp
+3) Added Health Based glow
+4) Improved Signatures
+5) ReCoDeD ReNaMeD [HaX]
+
+5/3/2019 V 0.9
+
+1) Updated with csgo changes
+2) Improved VAC scan Module
+3) Removed alive check
+-  (will work after dead also)
+4) Wall hack will be coming soon
+
+2/2/2019 V 0.7
+
+1) Updated with csgo changes
+2) Added VacScan Module
+3) Added Alive Check
+4) Fixed Some Bugs
+
+25/01/2019 V 0.1
+
+--initial release--
+1) Radar Hack Only
+2) Modified Signatures
