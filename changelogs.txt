@@ -1,7 +1,7 @@
 08/07/2019 V 1.0 11:02 PM
   (Re-Release of HaX)
 
-1) Migrated The Better Server
+1) Migrated To Better Server
 2) Changed Several Icons 
 3) Various Minor Bugs Fixed
 4) More Responsive Application
