@@ -1,3 +1,12 @@
+10/08/2019 V 1.1 10:03 PM
+
+1) Visuals Are Now Active
+2) Messages Are Now Default in login page
+3) Updated The Signatures
+4) Updated Offsets
+
+---------------------------------
+
 08/08/2019 V 1.0 11:02 PM
   (Re-Release of HaX)
 
