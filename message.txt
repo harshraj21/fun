@@ -2,21 +2,12 @@
 -----------------------------------------------------------
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
-Welcome To The New Era Of HaX
 
-Trigger Has Been Released Use With Care
+Bug:- Please Rename the Previous Hax Before Updating.
 
--Middle Mouse button for trigger
--(i.e- Mouse 3)
-
-New Hax Has Been Released...
-
-++All Credentials Have Been Reset++
-======Please Register Again======
-
-Link For New Hax >> https://firebasestorage.googleapis.com/v0/b/hax-auth.appspot.com/o/HaX_V1.0.exe?alt=media&token=6145f713-bff0-44ab-bf3b-4b60d3f32ad5
-
-New Website Coming Soon...
+TriggerBot Has been Released.
+Use With Care.
+HotKey- Middle Mouse (Mouse 3, Scroll button)
 
 ----------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
