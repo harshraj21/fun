@@ -4,11 +4,10 @@ Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
 Welcome To The New Era Of HaX
 
-New Features Incoming.
-1) TriggerBot
-2) Health based visual/Normal
-3) Colour Choose For Visuals
-4) Multi Key For Trigger Bot
+Trigger Has Been Released Use With Care
+
+-Middle Mouse button for trigger
+-(i.e- Mouse 3)
 
 New Hax Has Been Released...
 
