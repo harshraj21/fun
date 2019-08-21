@@ -2,14 +2,14 @@
 -----------------------------------------------------------
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
+              *Shedule Server Maintainence*
 
-+++++++++++++++++BacK OnlinE+++++++++++++++++++++++
 
-Bug:- Please Rename the Previous Hax Before Updating.
+ [HaX Will Go Offline From 22-Aug-2019 5PM - 9PM  IST]
+
 
 TriggerBot Has been Released.
-Use With Care.
-HotKey- Middle Mouse (Mouse 3, Scroll button)
+HotKey- Default -> Middle Mouse (Mouse 3, Scroll button
 
 ----------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
