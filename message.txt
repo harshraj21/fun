@@ -3,6 +3,10 @@
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
               
+ IMPORTANT NOTE: Please Disable Your Antivirus/Defender
+	         Before Updating To V 2.0
+
+
 If u dont select the new trigger button (Left Alt)
 Old one -> Middle Mouse button will be there by default
 
