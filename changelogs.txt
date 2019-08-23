@@ -1,3 +1,13 @@
+24/08/2019 V 2.0 12:12 AM
+
+1) Added New Trigger Button (Hotkey)
+2) Updated Offsets
+3) Added Timer
+4) Updated Server with lastest changes
+5) Plenty of internal changes
+
+-----------------------------------
+
 18/08/2019 V 1.4 07:24 PM
 
 * Fixed The AutoLock Down Bug.

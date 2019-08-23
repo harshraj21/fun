@@ -2,11 +2,9 @@
 -----------------------------------------------------------
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
-              *Shedule Server Maintainence*
-
-
- [HaX Will Go Offline From 22-Aug-2019 5PM - 9PM  IST]
-
+              
+If u dont select the new trigger button (Left Alt)
+Old one -> Middle Mouse button will be there by default
 
 TriggerBot Has been Released.
 HotKey- Default -> Middle Mouse (Mouse 3, Scroll button
