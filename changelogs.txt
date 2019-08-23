@@ -6,11 +6,12 @@
 
 24/08/2019 V 2.0 12:12 AM
 
-1) Added New Trigger Button (Hotkey)
-2) Updated Offsets
-3) Added Timer
-4) Updated Server with lastest changes
-5) Plenty of internal changes
+1) Auto Data Fetch Button (Login)
+2) Added New Trigger Button (Hotkey)
+3) Updated Offsets
+4) Added Timer
+5) Updated Server with lastest changes
+6) Plenty of internal changes
 
 -----------------------------------
 

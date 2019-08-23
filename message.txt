@@ -8,7 +8,9 @@ Welcome to HaX Message Section (More Details In Changelogs)
  |	           Before Updating To V 2.0 and above	    |
  |----------------------------------------------------------|
 
-More Features Coming Soon Stay Tuned....
+               ****Start Using Auto Data****
+
+[More Features Coming Soon Stay Tuned....]
 
 If u dont select the new trigger button (Left Alt)
 Old one -> Middle Mouse button will be there by default
