@@ -16,7 +16,7 @@ If u dont select the new trigger button (Left Alt)
 Old one -> Middle Mouse button will be there by default
 
 TriggerBot Has been Released.
-HotKey- Default -> Middle Mouse (Mouse 3, Scroll button
+HotKey- Default -> Middle Mouse (Mouse 3, Scroll button)
 
 ----------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
