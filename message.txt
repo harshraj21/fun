@@ -3,14 +3,15 @@
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
 
- |----------------------------------------------------------|
- | IMPORTANT NOTE: Please Disable Your Antivirus/Defender   |
- |	           Before Updating To V 2.0 and above	    |
- |----------------------------------------------------------|
+Features Currently Working on-
+-----------------------------
+1: Aimbot/Aimlock
+2: Bhop
+3: NoFlash
+
 
                ****Start Using Auto Data****
 
-[More Features Coming Soon Stay Tuned....]
 
 If u dont select the new trigger button (Left Alt)
 Old one -> Middle Mouse button will be there by default
