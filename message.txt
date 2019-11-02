@@ -2,23 +2,16 @@
 -----------------------------------------------------------
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
+Hello Guys Warm Greeting From The Developer.
 
-Features Currently Working on-
------------------------------
-1: Aimbot/Aimlock
-2: Bhop
-3: NoFlash
+HaX Will Go Down From 7th Nov 2019 Due to not able to raise
+Funds For Server Cost. 
 
+If Anyone wish to keep it Alive Please Sell it to as much 
+people as you can and raise the fund to pay for server
+(hosting) cost.
 
-               ****Start Using Auto Data****
-
-
-If u dont select the new trigger button (Left Alt)
-Old one -> Middle Mouse button will be there by default
-
-TriggerBot Has been Released.
-HotKey- Default -> Middle Mouse (Mouse 3, Scroll button)
-
+Hope You All Understand
 ----------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ----------------------------------------------------------
