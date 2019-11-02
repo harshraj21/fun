@@ -1,0 +1,24 @@
+               * ReCoDeD ReNaMeD [HaX] *
+-----------------------------------------------------------
+Welcome to HaX Message Section (More Details In Changelogs)
+-----------------------------------------------------------
+
+Features Currently Working on-
+-----------------------------
+1: Aimbot/Aimlock
+2: Bhop
+3: NoFlash
+
+
+               ****Start Using Auto Data****
+
+
+If u dont select the new trigger button (Left Alt)
+Old one -> Middle Mouse button will be there by default
+
+TriggerBot Has been Released.
+HotKey- Default -> Middle Mouse (Mouse 3, Scroll button)
+
+----------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+----------------------------------------------------------
