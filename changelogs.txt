@@ -2,8 +2,10 @@
 
 * New User Register Bug Fixed
 * Added a BACKUP Server
+* ANTI VAC Scan Module Updated
 * Synced With Latest CSGO Changes
-
+  [Currently Using Static Data]
+  [Will Fix This Soon in next Update]
 ---------------------------------
 
 07/12/2019 V 2.4 06:14 PM
