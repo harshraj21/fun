@@ -2,8 +2,6 @@
 -----------------------------------------------------------
 Welcome to HaX Message Section (More Details In Changelogs)
 -----------------------------------------------------------
-[Paid Users Please Ignore Ur Service Will Continue Normal]
-
 Hello Guys Warm Greeting From The Developer.
 
 HaX Will Go Down From 7th Nov 2019 Due to not able to raise
@@ -17,3 +15,4 @@ Hope You All Understand
 ----------------------------------------------------------
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ----------------------------------------------------------
+[Paid Users Please Ignore Ur Service Will Continue Normal]
