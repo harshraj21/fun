@@ -1,3 +1,9 @@
+30/03/2020 V 2.5 03:29 AM
+
+* New User Register Bug Fixed
+* Added a BACKUP Server
+* Synced With Latest CSGO Changes
+
 07/12/2019 V 2.4 06:14 PM
 
 * Trigger Fixed
