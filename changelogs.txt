@@ -4,6 +4,8 @@
 * Added a BACKUP Server
 * Synced With Latest CSGO Changes
 
+---------------------------------
+
 07/12/2019 V 2.4 06:14 PM
 
 * Trigger Fixed
