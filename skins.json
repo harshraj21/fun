@@ -1,13 +1,13 @@
 {
     "knife": {
-        "knifetype": 1,
-        "knifeskin": 574
+        "knifetype": 8,
+        "knifeskin": 0
     },
     "weapons": {
         "deagle": 231,
         "glock": 799,
         "ak47": 282,
-        "awp": 446,
+        "awp": 344,
         "m4a1": 632,
         "ssg": 361,
         "m4a1s": 497,
