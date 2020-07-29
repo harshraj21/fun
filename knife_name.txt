@@ -1,4 +1,4 @@
-"Bayonet",
+0: "Bayonet",
 "Flip Knife",
 "Gut Knife",
 "Karambit",
